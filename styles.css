@@ -56,7 +56,7 @@ p{
 }
 #features{
   padding: 7% 15%;
-  background-color: #ffffdd;
+  background-color: #fff;
   position: relative;
   z-index: 1;
 }
@@ -98,7 +98,7 @@ margin:20px;
 #pricing{
   padding:100px;
   text-align: center;
-  background-color: #ffffdd;
+  background-color: #fff;
 }
 .cardok{
   padding:3% 2%;
@@ -128,7 +128,7 @@ margin:20px;
 #footer{
   text-align: center;
   padding: 7% 15%;
-    background-color: #ffffdd;
+    background-color: #fff;
 }
 .soicons{
   margin: 20px 10px;
